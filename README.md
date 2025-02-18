@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2EnW9dmo)
+Name: Jared Lev A. Carranza
+Degree Program: BS Computer Science
+Key takeaways: I think that JavaScript is close to Python or Dart it is simple but it has depth to it the thing that I'm still not used to is the absence of a for loop. I also learned the importance of built-in functions especially for manipulating strings and arrays.
